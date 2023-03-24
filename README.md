@@ -11,7 +11,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 - 🧠 Callme: ***He/His*** or ***Developer*** 😊 <br>
-- 👨‍💻 My Portfolio - **[Gaurav Kumar](https://talib-portfolio.netlify.app/)** <br>
+- 👨‍💻 My Portfolio - **[Gaurav Kumar](https://gauravkumarportfolio.netlify.app/)** <br>
 - 🤔 I use daily ```.js```,``` .css```, ```.html```
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
