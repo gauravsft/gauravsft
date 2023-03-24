@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
-<h1 align="left">Hey there <img src="https://media2.giphy.com/media/2UA9gXDkCbKIKlLKxd/200.webp?cid=ecf05e47x7mu9bvq76v5ufyn96y6lqwl4ec4n4gmnnwztxcm&rid=200.webp&ct=g" width ="40"/>, I'm Md Gaurav Kumar </h1>
+<h1 align="left">Hey there <img src="https://media2.giphy.com/media/2UA9gXDkCbKIKlLKxd/200.webp?cid=ecf05e47x7mu9bvq76v5ufyn96y6lqwl4ec4n4gmnnwztxcm&rid=200.webp&ct=g" width ="40"/>, I'm Gaurav Kumar </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffb6c1&size=24&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
   <br>
